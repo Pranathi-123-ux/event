@@ -1,0 +1,102 @@
+.event
+{
+    background-color:white;
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 2100px;
+}
+nav ul li {
+    display: inline;
+    border: 2px solid black;
+    width: 100%;
+    margin: 60px;
+    padding: 5px;
+}
+header
+{
+    font-size:x-large ;
+    /* border: 2px solid black; */
+    padding: 4px;
+    margin: 5px;
+    background-color:rgba(220, 20, 60, 0.671) ;
+}
+.Box
+{
+    background-color:  #f8f1f0;;
+    /* border: 2px solid black; */
+    height:1090px;
+    width: 100%;
+}
+#Box1
+{
+    background-color:rgb(238, 232, 222);
+    /* border: 2px solid black; */
+    height:615px;
+    padding: 4px;
+    margin: 5px;
+}
+#Box2
+{
+    background-color:whitesmoke;
+    /* border: 2px solid black; */
+    padding: 4px;
+    margin: 4px;
+}
+#Box3
+{
+    background-color:snow;
+    /* border: 2px solid black; */
+    height: 150px;
+    padding: 4px;
+    margin: 4px;
+}
+.Boxes
+{
+    background-color:rgb(255, 249, 245);
+    /* border: 2px solid black; */
+    width: 100%;
+    height:600px;
+    display: flex;
+}
+#Box4
+{
+    /* border:2px solid black; */
+    background-color:seashell;
+    border-top: rgba(212, 81, 125, 0.795);
+    /* height:600px; */
+    padding: 6px;
+    margin: 10px;
+    flex: 1;
+}
+#Box5
+{
+    /* border:2px solid black; */
+    background-color:seashell;
+    /* height:600px; */
+    padding: 6px;
+    margin: 10px;
+    flex: 1; 
+}
+#Box6
+{
+    /* border:2px solid rgb(0, 0, 0); */
+    background-color:seashell;
+
+    /* height:600px; */
+    padding: 6px;
+    margin: 10px;
+    flex: 1;
+}
+p
+{
+    color: navy;
+}
+img
+{
+    border-radius: 20px;
+}
+a
+{
+    text-decoration: none;
+    font-style: oblique;
+}
